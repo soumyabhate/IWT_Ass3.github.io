@@ -7,6 +7,6 @@ body{
 	background-repeat: no-repeat
 }
 .next{
+	color: cyan;
 	font-family: Caveat Brush, cursive;
-	color: #9999ff;
 }
