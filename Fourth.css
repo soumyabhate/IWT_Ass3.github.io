@@ -6,7 +6,7 @@ body{
 	background-size: cover;
 	background-repeat: no-repeat
 }
-.next{
+#next{
 	font-family: Caveat Brush, cursive;
-	color: white;
+	color: #9999ff;
 }
